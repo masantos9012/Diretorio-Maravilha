@@ -1,0 +1,8 @@
+algoritm:
+var:
+inicio:
+escreva("qual seu nome?")
+ escreval(" Joao da Silva")
+ escreval("Ola Joao da silva , e um pra te co n h e c e r ")
+ 
+ fimalgoritmo
