@@ -1,0 +1,8 @@
+algoritmo: "primeiro"
+
+var:
+inicio:
+
+escreval  ("ola ,mundo")
+
+fimalgoritmo
