@@ -1,0 +1,16 @@
+Algoritmo "salario"
+// 
+//  
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 7/1/2021
+Var
+// Seção de Declarações das variáveis 
+
+
+Inicio
+ escreval("Nome do funcionario : Maria do Carmo")
+ escreval ("Salario:1850,45")
+ escreval(" O funcionario Maria Do carmo tem um salrio de R$1850,45 em junho" )
+
+Fimalgoritmo
